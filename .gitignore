@@ -1,5 +1,5 @@
 .env
 .vscode
 .venv
-ignore
 __pycache__
+ignore
